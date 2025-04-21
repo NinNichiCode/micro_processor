@@ -1,0 +1,56 @@
+# do vsim.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+# Start time: 20:41:58 on Apr 21,2025
+# vlog -sv IR_defs.svh flag.v flag_tb.sv 
+# -- Compiling module top
+# ** Warning: flag.v(24): (vlog-2182) 'SGPR' might be read before written in always_comb or always @* block.
+# -- Compiling module flag_tb
+# 
+# Top level modules:
+# 	flag_tb
+# End time: 20:42:00 on Apr 21,2025, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 1
+# vsim -uvmcontrol=all flag_tb 
+# Start time: 20:42:00 on Apr 21,2025
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: flag.v(24): (vopt-2182) 'SGPR' might be read before written in always_comb or always @* block.
+# //  Questa Sim-64
+# //  Version 10.7c win64 Aug 18 2018
+# //
+# //  Copyright 1991-2018 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading sv_std.std
+# Loading work.flag_tb(fast)
+# -----------------------------------------------------------------
+# OP:ADI Rsrc1:2  Rsrc2:4 Rdst:6
+# -----------------------------------------------------------------
+# OP:ADD Rsrc1:2  Rsrc2:2 Rdst:4
+# -----------------------------------------------------------------
+# OP:MOVI Rdst:55  imm_data:55
+# -----------------------------------------------------------------
+# OP:MOV Rdst:2  Rsrc1:2
+# -----------------------------------------------------------------
+# OP:ANDI Rdst:00000000  Rsrc1:00000010 imm_d :00111000
+# -----------------------------------------------------------------
+# OP:XORI Rdst:00111010  Rsrc1:00000010 imm_d :00111000
+# -----------------------------------------------------------------
+# OP:Zero Rsrc1:0  Rsrc2:0 Rdst:0
+# -----------------------------------------------------------------
+# OP:Sign Rsrc1:32768  Rsrc2:0 Rdst:32768
+# -----------------------------------------------------------------
+# OP:Carry & Overflow Rsrc1:32768  Rsrc2:32770 Rdst:2
+# -----------------------------------------------------------------
+# ** Note: $finish    : flag_tb.sv(130)
+#    Time: 110 ns  Iteration: 0  Instance: /flag_tb
+# End time: 20:42:06 on Apr 21,2025, Elapsed time: 0:00:06
+# Errors: 0, Warnings: 1

@@ -1,0 +1,67 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Processor_VLSI
+T_opt
+!s110 1745242924
+VhDNKigB6M7KM]mD1b9N601
+04 7 4 work flag_tb fast 0
+=1-dc4a3ef1b5db-68064b2a-f4-690
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+vflag_tb
+Z2 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z3 !s110 1745242920
+!i10b 1
+!s100 JH?0QcOSB?fEhA7]ElL3g1
+ILS7QgUSf8b39I^1n1?7DU1
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+!s105 flag_tb_sv_unit
+S1
+R0
+w1740752724
+8flag_tb.sv
+Fflag_tb.sv
+L0 3
+Z5 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z6 !s108 1745242918.000000
+Z7 !s107 flag_tb.sv|flag.v|IR_defs.svh|
+Z8 !s90 -sv|IR_defs.svh|flag.v|flag_tb.sv|
+!i113 0
+Z9 o-sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vtop
+R2
+R3
+!i10b 1
+!s100 fGFQo1BX1c1RXz60Xld9j1
+ILLj3k0S8:Y3iAVN;BSkDa3
+R4
+!s105 flag_v_unit
+S1
+R0
+w1740752680
+8flag.v
+Fflag.v
+L0 6
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1

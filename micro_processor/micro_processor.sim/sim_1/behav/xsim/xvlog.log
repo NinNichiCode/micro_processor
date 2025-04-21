@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Processor_VLSI/flag.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Processor_VLSI/IR_AU_LU_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IR_AU_LU_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Processor_VLSI/micro_processor/micro_processor.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

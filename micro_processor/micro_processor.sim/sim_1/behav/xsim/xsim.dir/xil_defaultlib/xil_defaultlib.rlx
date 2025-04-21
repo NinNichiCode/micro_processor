@@ -1,0 +1,8 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+D:/Processor_VLSI/IR_AU_LU_tb.sv,1740740958,systemVerilog,,,D:/Processor_VLSI/IR_defs.svh,IR_AU_LU_tb,,uvm,../../../../../,,,,,
+D:/Processor_VLSI/IR_defs.svh,1740740709,verilog,,,,,,,,,,,,
+D:/Processor_VLSI/flag.v,1740752680,verilog,,,D:/Processor_VLSI/IR_defs.svh,top,,uvm,../../../../../,,,,,
+D:/Processor_VLSI/micro_processor/micro_processor.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,uvm,,,,,,

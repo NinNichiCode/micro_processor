@@ -1,0 +1,7 @@
+Running: xsim.dir/IR_AU_LU_tb_behav/xsimk.exe -simmode gui -wdb IR_AU_LU_tb_behav.wdb -simrunnum 0 -socket 60671
+Design successfully loaded
+Design Loading Memory Usage: 9328 KB (Peak: 9328 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 9972 KB (Peak: 9972 KB)
+Simulation CPU Usage: 31 ms
